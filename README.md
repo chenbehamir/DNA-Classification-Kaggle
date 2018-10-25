@@ -1,3 +1,6 @@
+# DNA Classification
+
+
 This directory contains:
 	- kernelComputation.py : functions for computation of Gram matrices
 	- svmImpl : contains the SVM class implementation (fit and predict functions)
